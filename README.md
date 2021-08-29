@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuliusFalck
-- 👀 I’m interested in Game Devlopment (using Godot), software design, mathematics, biology and more!
+- 👀 I’m interested in Python, Game Devlopment (using Godot), software design, mathematics, biology and more!
 - 🌱 I’m currently learning C++
 
 <!---
