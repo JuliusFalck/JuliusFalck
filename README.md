@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuliusFalck
-- 👀 I’m interested in Python, Game Devlopment (using Godot), software design, mathematics, biology and more!
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Biology, Mathematics and Statistics. I use programming to answer questions and develop educational tools. I code in R, Python and JavaScript.
+
 
 <!---
 JuliusFalck/JuliusFalck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
